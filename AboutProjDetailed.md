@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 About
+## 📖 About the Project
 
 LifeQuest is a full-stack web application that helps friend groups create, track, and celebrate their shared and individual life goals together. Instead of maintaining scattered personal to-do lists, users can form groups, add bucket list items — ranging from travel destinations and adventure activities to skills they want to learn — and track progress collaboratively.
 

@@ -2,7 +2,7 @@
 
 **A Collaborative Bucket List and Goal Tracking Platform for Friend Groups**
 
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Status](https://img.shields.io/badge/status-in%20development-blue)
 ![Team Size](https://img.shields.io/badge/team-3-blue)
 
 ---

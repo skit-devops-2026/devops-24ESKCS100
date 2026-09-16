@@ -1,10 +1,6 @@
 # LifeQuest
 
-> Replace every angle-bracket placeholder below. The hygiene check in CI will
-> fail until you do.
-
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![Team Size](https://img.shields.io/badge/team-3-green)
+## Author
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
@@ -12,12 +8,12 @@
 
 ## About
 
-LifeQuest is a full-stack web-app for friend groups to create, track, and celebrate shared and individual goals. Users can create bucket-list items, track their progress, complete goals, and share achievements through features like the Wall of Fame, reactions, comments and leaderboards.
+LifeQuest is a full-stack web application that helps friend groups create, track, and celebrate their shared and individual life goals together. Instead of maintaining scattered personal to-do lists, users can form groups, add bucket list items — ranging from travel destinations and adventure activities to skills they want to learn — and track progress collaboratively.
 
 ## Tech stack
 
 - Frontend: HTML, Tailwind CSS, JavaScript
-- Backend: Not implemented yet
+- Backend: Node.js / Python (in Progress)
 - Database: Not implemented yet
 
 ## Running locally

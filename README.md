@@ -3,8 +3,8 @@
 > Replace every angle-bracket placeholder below. The hygiene check in CI will
 > fail until you do.
 
-![Status](https://img.shields.io/badge/status-in%20development-blue)
-![Team Size](https://img.shields.io/badge/team-3-blue)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Team Size](https://img.shields.io/badge/team-3-green)
 
 | Roll No. | Name | GitHub username |
 |---|---|---|

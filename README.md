@@ -25,9 +25,16 @@ make run
 
 ## Live URL
 
-<Add once M5 is done. Until then, leave as is.>
+https://skit-devops-2026.github.io/devops-24ESKCS100/
 
 ## Health endpoint
 
-`GET /health` returns the running commit SHA. See `Makefile` and the milestone
-sheet for why this is required.
+`GET /health` returns the running commit SHA:
+https://skit-devops-2026.github.io/devops-24ESKCS100/health
+
+## Deployment & Monitoring (M6)
+
+- **Deployment Screenshot:** [`docs/deployment.png`](docs/deployment.png) (also detailed in [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md))
+- **Prometheus Config:** [`monitoring/prometheus.yml`](monitoring/prometheus.yml)
+- **Monitoring Dashboard:** [`monitoring/dashboard.json`](monitoring/dashboard.json)
+- **Monitoring Guide:** [`monitoring/README.md`](monitoring/README.md)

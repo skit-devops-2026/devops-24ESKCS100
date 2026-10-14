@@ -6,9 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-# Dependency directories
+# Dependency and build directories
 node_modules/
 jspm_packages/
+dist/
+build/
 
 # Tailwind output CSS (optional, but typically you might ignore it if it's fully generated during build)
 # ./frontend/css/output.css
